@@ -1,0 +1,16 @@
+baseURL = "http://people.physik.hu-berlin.de/~pfitzseb/"
+languageCode = "en-us"
+title = "EMUlator"
+theme = "kakao"
+absurl = "http://people.physik.hu-berlin.de/~pfitzseb/"
+
+[Params]
+logofile = "img/emu.svg"
+faviconfile = "img/emu.svg"
+
+dateform = "Jan 2, 2006"
+highlightjslanguages = ["julia", "ruby"]
+github = "pfitzseb"
+posts_navigation = true
+highlightjs = true
+progressively = true
