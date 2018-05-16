@@ -1,0 +1,3 @@
+[submodule "themes/kakao"]
+	path = themes/kakao
+	url = git@github.com:pfitzseb/kakao.git
