@@ -36,10 +36,10 @@ Integrating the linter package is super easy on the Atom side. And here's the co
 
 ![concept](/img/Blogposts/linterui/example.png)
 
-There are still some issues to figure out, but this seems pretty neat for a first pass.
-
 ## Wrapping Traceur.jl's output
 
 With a bit of glue code for converting `Traceur.Warning`s into the `Message`s taken by linter we get a pretty UI:
 
 ![concept](/img/Blogposts/linterui/traceur.png)
+
+There are still some issues to figure out, but this seems pretty neat for a first pass.
