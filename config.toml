@@ -9,7 +9,7 @@ logofile = "img/emu.svg"
 faviconfile = "img/emu.svg"
 
 dateform = "Jan 2, 2006"
-highlightjslanguages = ["julia", "ruby"]
+highlightjslanguages = ["julia", "julia-repl"]
 github = "pfitzseb"
 posts_navigation = true
 highlightjs = true
