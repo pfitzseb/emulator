@@ -4,6 +4,9 @@ title = "EMUlator"
 theme = "kakao"
 absurl = "http://people.physik.hu-berlin.de/~pfitzseb/"
 
+[blackfriday]
+fractions = false
+
 [Params]
 logofile = "img/emu.svg"
 faviconfile = "img/emu.svg"
