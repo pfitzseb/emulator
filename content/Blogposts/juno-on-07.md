@@ -91,6 +91,9 @@ the Juno stack and *still* get pretty rendering for their custom types:
 The REPL renderer still needs a bit of work (and tests), but the actual API works pretty well
 already and is only [7 LoC plus documentation](https://github.com/pfitzseb/TreeViews.jl/blob/master/src/TreeViews.jl).
 
+This package was inspired by Steven G. Johnson (**[@stevengj](https://github.com/stevengj)**)
+in [Juno.jl#91](https://github.com/JunoLab/Juno.jl/issues/91).
+
 # Traceur.jl
 Unfortunately I didn't yet make much progress on updating Traceur.jl to work on Julia 0.7 --
 mostly because ASTInterpreter2.jl is a rather complex package. I'm pretty confident I'll
