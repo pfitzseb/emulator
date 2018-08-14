@@ -1,8 +1,8 @@
-baseURL = "http://people.physik.hu-berlin.de/~pfitzseb/"
+baseURL = "https://pfitzseb.github.io/"
 languageCode = "en-us"
 title = "EMUlator"
 theme = "kakao"
-absurl = "http://people.physik.hu-berlin.de/~pfitzseb/"
+absurl = "https://pfitzseb.github.io/"
 
 [blackfriday]
 fractions = false
