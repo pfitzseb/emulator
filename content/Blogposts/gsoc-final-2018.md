@@ -95,4 +95,5 @@ whole module).
 
 ## Acknowledgements
 I'd like to thank [Harsha](https://github.com/bmharsha) and [Mike](https://github.com/mikeinnes) for being
-great mentors. Also a big shoutout to the whole Julia community, and especially all organizers of this year's JuliaCon, which was a great experience
+great mentors. Also a big shoutout to the whole Julia community, and especially all organizers of this year's
+JuliaCon, which was a great experience, as well as The Julia Project and NumFocus for enabling me to go to JuliaCon.
