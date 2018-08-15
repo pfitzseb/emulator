@@ -1,0 +1,1 @@
+RedirectMatch /~pfitzseb/(.*) https://pfitzseb.github.io/$1
