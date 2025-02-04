@@ -40,10 +40,10 @@ date: 2018-06-11T12:20:32+02:00
 - [Röntgentopographie]({{<resource url="/files/protokolle/Roentgentopographie.pdf">}}) - 17/20 (wegen
                 Dosimetrie und fehlender Auswertung der Rockingkurven (Krümmung der Probe?)
 - [Einzelphotonenzählung]({{<resource url="/files/protokolle/TCSPC.pdf">}}) - 19/20
-- [Halbleiterdetektoren]({{<resource url="/files/protokolle/HLD.pdf>}}) - 15/20 (seht ihr auch selber, warum :)")
+- [Halbleiterdetektoren]({{<resource url="/files/protokolle/HLD.pdf">}}) - 15/20 (seht ihr auch selber, warum :))
 - [Rastertunnelmikroskopie]({{<resource url="/files/protokolle/RTM.pdf">}}) - 20/20
 - [Z-Resonanz]({{<resource url="/files/protokolle/z0.pdf">}}) - 20/20
-- [Noise Fundamentals]({{<resource url="/files/protokolle/noisefundamentals.pdf>}}) - 18/20 (wohl wegen Vortestat")
+- [Noise Fundamentals]({{<resource url="/files/protokolle/noisefundamentals.pdf">}}) - 18/20 (wohl wegen Vortestat)
 
 ### Elektronik-Praktikum
 - [Versuch 1]({{<resource url="/files/protokolle/epr1.pdf">}}) - 97/100
